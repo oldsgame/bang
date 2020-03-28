@@ -1,0 +1,49 @@
+{"frames": [
+
+    {
+        "filename": "sherif",
+        "frame": {"x":0,"y":0,"w":146,"h":225},
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {"x":0,"y":0,"w":146,"h":225},
+        "sourceSize": {"w":146,"h":225},
+        "pivot": {"x":0.5,"y":0.5}
+    },
+    {
+        "filename": "vicesherif",
+        "frame": {"x":148,"y":0,"w":146,"h":225},
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {"x":0,"y":0,"w":146,"h":225},
+        "sourceSize": {"w":146,"h":225},
+        "pivot": {"x":0.5,"y":0.5}
+    },
+    {
+        "filename": "renegado",
+        "frame": {"x":292,"y":0,"w":146,"h":225},
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {"x":0,"y":0,"w":146,"h":225},
+        "sourceSize": {"w":146,"h":225},
+        "pivot": {"x":0.5,"y":0.5}
+    },
+    {
+        "filename": "bandido",
+        "frame": {"x":438,"y":0,"w":146,"h":225},
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {"x":0,"y":0,"w":146,"h":225},
+        "sourceSize": {"w":146,"h":225},
+        "pivot": {"x":0.5,"y":0.5}
+    }
+    ],
+    "meta": {
+        "app": "http://www.codeandweb.com/texturepacker",
+        "version": "1.0",
+        "image": "cards.png",
+        "format": "RGBA8888",
+        "size": {"w":1564,"h":962},
+        "scale": "1",
+        "smartupdate": "$TexturePacker:SmartUpdate:c9b5e79ca7f98f7ae7bae194943be2e6:688f1f9df7d95abccc98eb982bdd2a23:8056528aade6b91f4a89f8c9da7f2d4c$"
+    }
+    }
